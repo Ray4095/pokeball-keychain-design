@@ -42,7 +42,6 @@ The model was created with estimated dimensions and exported as an STL file.
 
 - `front_view.png`  
   Front view screenshot of the final design.
-
 - `side_3d_view.png`  
   3D side view screenshot showing the thickness and raised parts.
 
