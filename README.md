@@ -37,13 +37,14 @@ The model was created with estimated dimensions and exported as an STL file.
 
 ## Files Included
 
-- `pokeball_keychain_design.stl`  
+- [pokeball_keychain_design.stl](pokeball_keychain_design.stl)  
   The exported 3D model file.
 
-- `front_view.png`  
+- [front_view.png](front_view.png)  
   Front view screenshot of the final design.
-- `side_3d_view.png`  
+
+- [side_3d_view.png](side_3d_view.png)  
   3D side view screenshot showing the thickness and raised parts.
 
-- `pokeball_keychain_dimensions.pdf`  
+- [pokeball_keychain_dimensions.pdf](pokeball_keychain_dimensions.pdf)  
   A PDF file containing the estimated dimensions and measurement screenshots.
